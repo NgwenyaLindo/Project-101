@@ -1,2 +1,3 @@
 # Project-101
-Github 101 project
+### This is an example of what I have learned in GitHub
+Changes in VS code
